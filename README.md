@@ -5,6 +5,7 @@ Overview
 This project implements a real-time data pipeline that ingests, processes, and stores streaming data using Python, Apache Kafka, Apache Spark, AWS S3, and Snowflake.
 
 Architecture Flow
+-----------------
 
 Data Ingestion (Kafka)
 
