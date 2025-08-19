@@ -34,6 +34,7 @@ Data Warehousing in Snowflake
 AWS S3 data is ingested into Snowflake via Snowpipe .
 
 Snowflake enables fast SQL queries, BI dashboards, and analytics.
+_______________________________________________________________________________________________________________
 
 Tech Stack
 -----------
