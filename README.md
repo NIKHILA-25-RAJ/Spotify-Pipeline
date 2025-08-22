@@ -47,7 +47,11 @@ Tech Stack
 
 Folder Structure
 ----------------
-project-root/ │── kafka_producer/ # Python scripts to push data to Kafka │── spark_streaming/ # PySpark code for Kafka → S3 processing │── snowflake_integration/ # Scripts & SQL for Snowflake ingestion │── README.md # Project documentation
+project-root/ 
+│── kafka_producer/           # Python scripts to push data to Kafka 
+│── spark_streaming/          # PySpark code for Kafka → S3 processing 
+│── snowflake_integration/    # Scripts & SQL for Snowflake ingestion 
+│── README.md                 # Project documentation
 
 How It Works
 ------------
